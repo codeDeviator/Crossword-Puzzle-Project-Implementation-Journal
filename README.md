@@ -1,4 +1,3 @@
-# Crossword-Puzzle-Project-Implementation-Journal
 # **Crossword Puzzle Project: Implementation Journal**
 
 ## **1\. Objective**
