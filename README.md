@@ -47,10 +47,8 @@ Is project mein humne React.js ka use karke ek crossword puzzle banaya hai. Puzz
 ## **7\. Frameworks/Libraries**
 
 * **React.js**: UI build karne ke liye primary framework hai.  
-* **React Router**: Different pages jaise "Learn Commands" page aur different puzzle levels ke beech navigation ke liye.  
-* **Redux (Optional)**: State management ke liye (agar zarurat ho), lekin chhote projects mein simpler methods ka use bhi kiya ja sakta hai.  
+* **React Router**: Different pages jaise "Learn Commands" page aur different puzzle levels ke beech navigation ke liye.   
 * **React Crossword Library**: Crossword grid aur related functionality ko implement karne ke liye use kiya gaya.  
-* **Jest**: Unit testing ke liye aur components ke functionality ko ensure karne ke liye.
 
 ## **8\. Development Tools**
 
