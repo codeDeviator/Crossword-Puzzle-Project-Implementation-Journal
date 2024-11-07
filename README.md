@@ -2,7 +2,7 @@
 
 ## **1\. Objective**
 
-Is project ka main objective ek interactive crossword puzzle game banana hai jo Linux commands pe focus karta hai. Ye puzzle user ki Linux knowledge ko enhance karne ke liye design kiya gaya hai, jisme user ko Linux commands se related questions ka jawab dena hota hai. Game mein alag-alag difficulty levels hain aur ek "Learn Commands" page bhi diya gaya hai, jahan se users additional resources ko GitHub repository se access kar sakte hain. Objective yeh hai ki Linux ko seekhna mazedaar, engaging aur interactive banaya jaaye.
+Is project ka main objective ek interactive crossword puzzle game banana hai jo, linux commands pe focus karta hai. Ye puzzle user ki Linux knowledge ko enhance karne ke liye design kiya gaya hai, jisme user ko Linux commands se related questions ka jawab dena hota hai. Game mein alag-alag difficulty levels hain aur ek "Learn Commands" page bhi diya gaya hai, jahan se users additional resources ko GitHub repository se access kar sakte hain. Objective yeh hai ki Linux ko seekhna mazedaar, engaging aur interactive banaya jaaye.
 
 ## **2\. Table of Contents**
 
@@ -23,7 +23,7 @@ Is project ka main objective ek interactive crossword puzzle game banana hai jo 
 
 ## **3\. Introduction**
 
-Is project mein humne React.js ka use karke ek crossword puzzle banaya hai. Puzzle ke questions Linux commands pe based hain jo users ko unki Linux knowledge ko interactive tareeke se reinforce karne mein madad karte hain. Game mein multiple difficulty levels hain aur kuch extra features bhi diye gaye hain jaise autofill, reset, correct/incorrect answers ke liye color coding aur ek linked learning section. Game ka architecture ensure karta hai ki ye properly function kare, scalable ho aur ek engaging user experience provide kare.
+Is project mein humne React.js ka use karke ek crossword puzzle banaya hai. Puzzle ke questions Linux commands pe based hain jo users ko unki Linux knowledge ko interactive tareeke se reinforce karne mein madad karte hain. Game mein multiple difficulty levels hain aur kuch extra features bhi diye gaye hain jaise correct/incorrect answers ke liye color coding aur ek linked learning section. Game ka architecture ensure karta hai ki ye properly function kare, scalable ho aur ek engaging user experience provide kare.
 
 ## **4\. Machine Info**
 
@@ -35,7 +35,7 @@ Is project mein humne React.js ka use karke ek crossword puzzle banaya hai. Puzz
 ## **5\. Tools and Technologies**
 
 * **Operating System**: Linux (Ubuntu KDE Plasma X11)  
-* **Version Control**: Git aur GitHub ka use code management aur collaboration ke liye kiya gaya hai.  
+* **Version Control**: GitHub ka use code management aur collaboration ke liye kiya gaya hai.  
 * **Text Editor**: Visual Studio Code (VS Code)
 
 ## **6\. Programming Languages**
