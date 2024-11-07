@@ -131,3 +131,4 @@ Is crossword puzzle project ne React development, UI design aur third-party libr
 3. Crossword Library: [https://github.com/gbirke/react-crossword](https://github.com/gbirke/react-crossword)  
 4. Linux Command Guide: [https://linuxcommand.org/](https://linuxcommand.org/)  
 5. GitHub Repository for Learning Commands: [https://github.com/codeDeviator/Crossword-Puzzle-Project-Implementation-Journal/edit/main/README.md/](https://github.com/codeDeviator/Crossword-Puzzle-Project-Implementation-Journal/edit/main/README.md)
+6. Linux Command Learning Site: [https://linuxize.com/] (https://linuxize.com/)
