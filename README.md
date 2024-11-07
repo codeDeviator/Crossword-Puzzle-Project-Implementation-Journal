@@ -1,4 +1,4 @@
-# **Crossword Puzzle Project: Implementation Journal**
+# **Linux Crossword Puzzle: Implementation Journal**
 
 ## **1\. Objective**
 
