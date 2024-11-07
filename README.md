@@ -69,8 +69,11 @@ bash
 Copy code  
 `npm install react-router-dom react-crossword`
 
-2.   
-3. **Project Structure Create Karna**:  
+2. **Crossword Library Install Karna**:
+   `npm install --save @jaredreisinger/react-crossword`  
+    # or #  
+   `yarn add @jaredreisinger/react-crossword`  
+4. **Project Structure Create Karna**:  
    Project ko logical components mein divide kiya gaya, jisme `CrosswordPage`, `LearnCommands` aur doosre related components shamil hain. Har level ke crossword puzzle ka dedicated React component banaya gaya.
 
 ## **10\. Project Architecture**
