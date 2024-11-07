@@ -63,17 +63,18 @@ Is project mein humne React.js ka use karke ek crossword puzzle banaya hai. Puzz
 1. **React App Initialize Karna**:  
    `npx create-react-app crossword-game` ka use karke project ko initialize kiya aur necessary dependencies install ki.
 
-**Additional Libraries Install Karna**:  
-`react-router-dom` aur `react-crossword` jaise libraries ko routing aur crossword functionality ke liye install kiya.  
-bash  
-Copy code  
-`npm install react-router-dom react-crossword`
+   **Additional Libraries Install Karna**:  
+   `react-router-dom` aur `react-crossword` jaise libraries ko routing aur crossword functionality ke liye install kiya.  
+    bash  
+    Copy code  
+   `npm install react-router-dom react-crossword`
 
 2. **Crossword Library Install Karna**:
    `npm install --save @jaredreisinger/react-crossword`  
-    # or #  
-   `yarn add @jaredreisinger/react-crossword`  
-4. **Project Structure Create Karna**:  
+     or
+   `yarn add @jaredreisinger/react-crossword`
+     
+3. **Project Structure Create Karna**:  
    Project ko logical components mein divide kiya gaya, jisme `CrosswordPage`, `LearnCommands` aur doosre related components shamil hain. Har level ke crossword puzzle ka dedicated React component banaya gaya.
 
 ## **10\. Project Architecture**
