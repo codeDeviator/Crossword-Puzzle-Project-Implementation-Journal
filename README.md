@@ -64,10 +64,10 @@ Is project mein humne React.js ka use karke ek crossword puzzle banaya hai. Puzz
    `npx create-react-app crossword-game` ka use karke project ko initialize kiya aur necessary dependencies install ki.
 
    **Additional Libraries Install Karna**:  
-   `react-router-dom` aur `react-crossword` jaise libraries ko routing aur crossword functionality ke liye install kiya.  
+   `react-router-dom`  jaise libraries ko routing ke liye install kiya.  
     bash  
     Copy code  
-   `npm install react-router-dom react-crossword`
+   `npm install react-router-dom`  
 
 2. **Crossword Library Install Karna**:
    `npm install --save @jaredreisinger/react-crossword`  
