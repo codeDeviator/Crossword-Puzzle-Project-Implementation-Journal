@@ -124,9 +124,9 @@ Is crossword puzzle project ne React development, UI design aur third-party libr
 
 ## **14\. References**
 
-1. React Documentation: [https://reactjs.org/docs/getting-started.html](https://reactjs.org/docs/getting-started.html)  
+1. React Documentation: [https://reactjs.org/docs/getting-started.html](https://reactjs.org/docs/getting-started.html/)  
 2. React Router: [https://reactrouter.com/](https://reactrouter.com/)  
-3. Crossword Library: [https://github.com/gbirke/react-crossword](https://github.com/gbirke/react-crossword)  
+3. Crossword Library: [https://github.com/gbirke/react-crossword](https://github.com/gbirke/react-crossword/)  
 4. Linux Command Guide: [https://linuxcommand.org/](https://linuxcommand.org/)  
 5. GitHub Repository for Learning Commands: [https://github.com/codeDeviator/Crossword-Puzzle-Project-Implementation-Journal/edit/main/README.md/](https://github.com/codeDeviator/Crossword-Puzzle-Project-Implementation-Journal/edit/main/README.md)
 6. Linux Command Learning Site: (https://linuxize.com/)
