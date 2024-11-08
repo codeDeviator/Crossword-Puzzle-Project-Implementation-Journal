@@ -96,26 +96,20 @@ Create-react-app ka use karke project set up kiya, necessary libraries install k
 
 ### **Step 2: Crossword Component Banana**
 
-`react-crossword` library ka use karke basic crossword puzzle grid integrate kiya. Puzzle ko customize karte hue Linux command questions ko accept karaya aur answers ko correct cells ke sath align kiya.
+`react-crossword` library ka use karke basic crossword puzzle grid integrate kiya. Puzzle ko customize karte hue Linux command questions ko accept karaya aur answers ko correct cells ke sath align kiya. Puzzle, Clues and solutions ko aise align karna taaki array mein bhy wo sahi tareeke se align ho sake each other ke according.
 
 ### **Step 3: Features Add Karna**
 
 * Correctness ke basis pe answers ko green ya red color code karne wala logic implement kiya.  
-* Crossword clear karne ke liye reset button develop kiya.  
-* Autofill functionality add ki taaki users ko puzzle complete karne mein madad ho.  
-* Jab answers correct ho toh clues pe strikethrough aur color change ka effect create kiya.
+* Clues ke across and down section mein linux commands ke functions add kiya.
+* Linux ka md file github p bnake usse learn commands page se link kiya.
+* Multiple levels bnaya.    
 
 ### **Step 4: "Learn Commands" Page Banana**
 
-Ek dedicated page banaya jahan users Linux commands ke baare mein seekh sakte hain jo crossword mein use hue hain. Ye page ek GitHub repository se linked hai jahan se users aur zyada references access kar sakte hain.
+Ek dedicated page banaya jahan users Linux commands ke baare mein seekh sakte hain. Ye page ek GitHub repository se linked hai jahan se users aur zyada references access kar sakte hain.
 
-### **Step 5: Testing aur Debugging**
 
-Browser developer tools ka use karke manual testing ki aur ensure kiya ki puzzle functionality sahi kaam kar rahi hai. Incorrect input aur overlapping answers jaise edge cases ko test kiya.
-
-### **Step 6: Documentation**
-
-Comprehensive documentation prepare ki, jisme Markdown files shamil hain jo GitHub pe hosted hain. Ye future developers aur interns ko project setup aur development process samajhne mein madad karengi.
 
 ## **12\. Learning & Takeaways**
 
@@ -135,4 +129,4 @@ Is crossword puzzle project ne React development, UI design aur third-party libr
 3. Crossword Library: [https://github.com/gbirke/react-crossword](https://github.com/gbirke/react-crossword)  
 4. Linux Command Guide: [https://linuxcommand.org/](https://linuxcommand.org/)  
 5. GitHub Repository for Learning Commands: [https://github.com/codeDeviator/Crossword-Puzzle-Project-Implementation-Journal/edit/main/README.md/](https://github.com/codeDeviator/Crossword-Puzzle-Project-Implementation-Journal/edit/main/README.md)
-6. Linux Command Learning Site: (https://linuxize.com/)
+6. Linux Command Learning Site: (https://linuxize.com) (https://linuxize.com/)
