@@ -61,7 +61,7 @@ Is project mein humne React.js ka use karke ek crossword puzzle banaya hai. Puzz
 ## **9\. Project Setup**
 
 1. **React App Initialize Karna**:  
-   `npx create-react-app crossword-game` ka use karke project ko initialize kiya aur necessary dependencies install ki.
+   `npx create-react-app your-app-name` ka use karke project ko initialize kiya aur necessary dependencies install ki.
 
    **Additional Libraries Install Karna**:  
    `react-router-dom`  jaise libraries ko routing ke liye install kiya.  
@@ -75,12 +75,21 @@ Is project mein humne React.js ka use karke ek crossword puzzle banaya hai. Puzz
    `yarn add @jaredreisinger/react-crossword`
      
 3. **Project Structure Create Karna**:  
-   Project ko logical components mein divide kiya gaya, jisme `CrosswordPage`, `LearnCommands` aur doosre related components shamil hain. Har level ke crossword puzzle ka dedicated React component banaya gaya.
-
+   Project ko logical components mein divide kiya gaya, jisme`learnlinux`, `landingPage` `LevelOne`,`LevelTwo`, `LevelThree` `LearnCommands` aur doosre related components shamil hain. Har level ke crossword puzzle ka dedicated React component banaya gaya.
+   * **Learnlinux**:  
+  Iss page m linux learn karne ke liye ek github repository attached h taaki agar koi linux command na jaanta ho to wo phle linux padhle tab game khele.    
+   * **LandingPage**:
+  Iss page ko home page bhy keh skte hn isme saare rules, buttons, about the game ye sab available hn.  
+   * **LevelOne**:
+  Ye humara level one game h jisme 5*5 crossword h jo ki thoda easy bnaya gya h.  
+   * **LevelTwo**:  
+  Ye humara level two game h jisme 10*10 crossword bnaya gya h, ye medium level ka game h.  
+   * **LevelThree**:  
+  Ye humara level three game h jisme 15*15 crossword bnaya gya h, ye hard level ka game h.    
 ## **10\. Project Architecture**
 
 * **Component-Based Structure**:  
-  Project alag-alag React components mein structured hai, jisme puzzle grid, navigation, question list aur reset, autofill jaise buttons ka role diya gaya hai.  
+  Project alag-alag React components mein structured hai, jisme puzzle grid, navigation, question list(clues), solutions bnaye gye hn.    
 * **State Management**:  
   React ke `useState` aur `useEffect` hooks ka use karke basic state management handle kiya gaya. Puzzle ka har state user ke input, correct/incorrect answers ko track karta hai aur accordingly UI update karta hai.  
 * **Routing**:  
@@ -130,3 +139,4 @@ Is crossword puzzle project ne React development, UI design aur third-party libr
 4. Linux Command Guide: [https://linuxcommand.org/](https://linuxcommand.org/)  
 5. GitHub Repository for Learning Commands: [https://github.com/codeDeviator/Crossword-Puzzle-Project-Implementation-Journal/edit/main/README.md/](https://github.com/codeDeviator/Crossword-Puzzle-Project-Implementation-Journal/edit/main/README.md)
 6. Linux Command Learning Site: (https://linuxize.com/)
+7. Project Website: [https://github.com/JaredReisinger/react-crossword/](https://github.com/JaredReisinger/react-crossword)
