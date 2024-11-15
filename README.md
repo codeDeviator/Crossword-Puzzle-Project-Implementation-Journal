@@ -6,20 +6,20 @@ Is project ka main objective ek interactive crossword puzzle game banana hai jo,
 
 ## **2\. Table of Contents**
 
- -[Objective](#objective)
-2. [Table of Contents](#Table of Contents)  
-3. Introduction  
-4. Machine Info  
-5. Tools and Technologies  
-6. Programming Languages  
-7. Frameworks/Libraries  
-8. Development Tools  
-9. Project Setup  
-10. Project Architecture  
-11. Steps Followed  
-12. Learning & Takeaways  
-13. Conclusion  
-14. References
+ - [Objective](#objective)
+ - [Table of Contents](#Table of Contents)  
+ - Introduction  
+ - Machine Info  
+ - Tools and Technologies  
+ - Programming Languages  
+ - Frameworks/Libraries  
+ - Development Tools  
+ - Project Setup
+ - Project Architecture  
+ - Steps Followed  
+ - Learning & Takeaways  
+ - Conclusion  
+ - References
 
 ## **3\. Introduction**
 
