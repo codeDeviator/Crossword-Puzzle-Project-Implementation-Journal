@@ -6,8 +6,8 @@ Is project ka main objective ek interactive crossword puzzle game banana hai jo,
 
 ## **2\. Table of Contents**
 
-1. Objective(#Objective)
-2. Table of Contents  
+1. [Objective](#Objective)
+2. [Table of Contents](#Table of Contents)  
 3. Introduction  
 4. Machine Info  
 5. Tools and Technologies  
