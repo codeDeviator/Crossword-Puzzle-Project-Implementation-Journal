@@ -6,20 +6,23 @@ Is project ka main objective ek interactive crossword puzzle game banana hai jo,
 
 ## **2\. Table of Contents**
 
- - [Objective](#objective)
- - [Table of Contents](#Table-of-Contents)  
- - Introduction  
- - Machine Info  
- - Tools and Technologies  
- - Programming Languages  
- - Frameworks/Libraries  
- - Development Tools  
- - Project Setup
- - Project Architecture  
- - Steps Followed  
- - Learning & Takeaways  
- - Conclusion  
- - References
+- [Objective](#1-objective)
+- [Introduction](#3-introduction)
+- [Machine Info](#4-machine-info)
+- [Tools and Technologies](#5-tools-and-technologies)
+- [Programming Languages](#6-programming-languages)
+- [Frameworks/Libraries](#7-frameworkslibraries)
+- [Development Tools](#8-development-tools)
+- [Project Setup](#9-project-setup)
+- [Project Architecture](#10-project-architecture)
+- [Steps Followed](#11-steps-followed)
+  - [Step 1: Initial Setup](#step-1-initial-setup)
+  - [Step 2: Crossword Component Banana](#step-2-crossword-component-banana)
+  - [Step 3: Features Add Karna](#step-3-features-add-karna)
+  - [Step 4: "Learn Commands" Page Banana](#step-4-learn-commands-page-banana)
+- [Learning & Takeaways](#12-learning--takeaways)
+- [Conclusion](#13-conclusion)
+- [References](#14-references)
 
 ## **3\. Introduction**
 
